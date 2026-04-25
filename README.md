@@ -3,7 +3,7 @@
 > Experiment 3 + Experiment 4 | Chandigarh University | B.E. CSE (AI/ML) 2023–2027
 
 ## Live Demo
-`23bai70318-4-simar-saini.vercel.app`
+`23bai70318-4-simar.vercel.app`
 
 ---
 
